@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/chinmay/BDT/Scala/4/target/scala-2.12/root-4_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SMS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Scala/4/target/scala-2.12/classes/SMS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pattern$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Scala/4/target/scala-2.12/classes/Pattern$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Email.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Scala/4/target/scala-2.12/classes/Email.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SMS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Scala/4/target/scala-2.12/classes/SMS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pattern.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Scala/4/target/scala-2.12/classes/Pattern.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Notification.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Scala/4/target/scala-2.12/classes/Notification.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Email$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Scala/4/target/scala-2.12/classes/Email$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

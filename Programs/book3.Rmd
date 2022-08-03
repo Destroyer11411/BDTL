@@ -1,0 +1,23 @@
+```{r}
+data()
+
+data("mtcars")
+sapply(mtcars,class)
+print(paste("Number of rows in mtcars:",nrow(mtcars)))
+print(paste("Number of columns in mtcars:",ncol(mtcars)))
+
+print(paste("No. of automatic cars:",sum(mtcars$am==0)))
+print(paste("No. of manual cars:",sum(mtcars$am==1)))
+
+x=mtcars$wt
+y=mtcars$hp
+plot(x,y,main="hp vs wt",xlab="wt",ylab="hp",pch=20,frame=TRUE)
+abline(lm(y~x,data=mtcars),col="red")
+
+newmtc=data.frame(mtcars$mpg,as.integer(mtcars$cyl),mtcars$disp,mtcars$hp,mtcars$drat,mtcars$wt,mtcars$qsec,as.integer(mtcars$vs),as.integer(mtcars$am),mtcars$gear,mtcars$carb)
+sapply(newmtc,class)
+
+for(i in (1:nrow(newmtc)))
+  if(newmtc[i,2]<5)
+    print(newmtc[i,])
+```

@@ -1,0 +1,18 @@
+```{r}
+data("airquality")
+dim(airquality)
+
+sapply(airquality,class)
+
+is.na(head(airquality,5))
+which(is.na(head(airquality,5)))
+
+newdata=airquality
+for(i in 1:ncol(newdata))
+  newdata[is.na(newdata[,i]),i]=mean(newdata[,i],na.rm=TRUE)
+
+newdt=na.omit(airquality)
+head(airquality,5)
+head(newdata,5)
+head(newdt,5)
+```

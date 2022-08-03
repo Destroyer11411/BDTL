@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/chinmay/BDT/Spark/1/target/scala-2.11/word_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Spark/1/target/scala-2.11/classes/s$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Spark/1/target/scala-2.11/classes/s$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Spark/1/target/scala-2.11/classes/s$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Spark/1/target/scala-2.11/classes/s$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Spark/1/target/scala-2.11/classes/s$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chinmay/BDT/Spark/1/target/scala-2.11/classes/s.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

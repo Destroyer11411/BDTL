@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/chinmay/BDT/Spark/1/target/scala-2.11/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/chinmay/BDT/Spark/1/target/scala-2.11/classes.bak[0m
